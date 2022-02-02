@@ -34,6 +34,14 @@ project_dir
 ```
 
 ## Usage
+### App
+1. Download the app from the [release page](https://github.com/SonicZedt/Abyssal-Files-Puller/releases).
+2. Launch the AFP.exe
+3. Wait a couple second, file explorer will open automatically
+4. Select the *abyssal_dir*
+5. Moving process will started after *abyssal_dir* selected
+
+### Script
 `Pull_From_Abyss(abyssal_dir, extension = 'all')`
 *extension can not be defined if using AFP.exe, so it would moves all found files*
 
