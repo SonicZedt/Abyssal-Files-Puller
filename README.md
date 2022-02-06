@@ -1,5 +1,5 @@
 # Abyssal-Files-Puller
-Move files in deep subdirectories into single folder. For example you have a bunch of files in messy directories:
+Move files from deep subdirectories into single folder. For example you have a bunch of files in messy directories:
 ```bash
 abyssal_dir
 │
